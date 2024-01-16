@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/48-grupe-ufo/
+Site published at: https://martalionaite.github.io/48-grupe-ufo/
 
 Design: [Ufo](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
