@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+  }
+  
+  main {
+        display: inline-block; 
+        background-color: yellow; 
+        width: 50%; margin-top: 
+        5%; margin-left: 25%;
+  }
+  
+  div {
+    background-color: pink; 
+    width: 35%; 
+    float: left;
+  }
+
+  img {
+    width: 55%; 
+    float: right;
+  }
