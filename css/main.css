@@ -4,22 +4,29 @@ body {
 
 main {
     display: inline-block;
-    background-color: yellow;
     width: 50%;
-    margin-top: 5%;
+    margin-top: 10%;
     margin-left: 25%;
 }
 
 div {
-    background-color: pink;
     width: 35%;
     float: left;
+    margin-top: 50px;
 }
 
 h1 {
+    margin: 0;
+    font-size: 100px;
+    font-family: aaa, bbb, Tahoma, ccc;
+    color: blue;
 }
 
 p {
+    margin: 0;
+    font-size: 30px;
+    font-family: Tahoma;
+    text-transform: uppercase;
 }
 
 a {

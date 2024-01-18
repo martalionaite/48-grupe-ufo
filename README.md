@@ -23,6 +23,7 @@ Design: [Ufo](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mo
 -   CSS units: px, %
 -   basic design layout
 -   image with relative paths
+-   **no responsive design**
 
 ## 🧰 Getting Started
 
