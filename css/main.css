@@ -8,11 +8,20 @@ body {
         width: 50%; margin-top: 
         5%; margin-left: 25%;
   }
-  
+
   div {
     background-color: pink; 
     width: 35%; 
     float: left;
+  }
+
+  h1 {
+  }
+
+  p {
+  }
+
+  a {
   }
 
   img {
