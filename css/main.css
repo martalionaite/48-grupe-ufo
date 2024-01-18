@@ -1,30 +1,31 @@
 body {
     background-color: white;
-  }
-  
-  main {
-        display: inline-block; 
-        background-color: yellow; 
-        width: 50%; margin-top: 
-        5%; margin-left: 25%;
-  }
+}
 
-  div {
-    background-color: pink; 
-    width: 35%; 
+main {
+    display: inline-block;
+    background-color: yellow;
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+div {
+    background-color: pink;
+    width: 35%;
     float: left;
-  }
+}
 
-  h1 {
-  }
+h1 {
+}
 
-  p {
-  }
+p {
+}
 
-  a {
-  }
+a {
+}
 
-  img {
-    width: 55%; 
+img {
+    width: 55%;
     float: right;
-  }
+}
